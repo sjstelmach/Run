@@ -7,38 +7,34 @@
 //
 
 #import "RunAppDelegate.h"
-#import "EAGLView.h"
+#import "GLView.h"
+#import "ConstantsAndMacros.h"
 
 @implementation RunAppDelegate
 
 @synthesize window;
 @synthesize glView;
 
-- (void) applicationDidFinishLaunching:(UIApplication *)application
-{
+- (void)applicationDidFinishLaunching:(UIApplication *)application {
+    
+	glView.animationInterval = 1.0 / kRenderingFrequency;
 	[glView startAnimation];
 }
 
-- (void) applicationWillResignActive:(UIApplication *)application
-{
-	[glView stopAnimation];
+
+- (void)applicationWillResignActive:(UIApplication *)application {
+	glView.animationInterval = 1.0 / kInactiveRenderingFrequency;
 }
 
-- (void) applicationDidBecomeActive:(UIApplication *)application
-{
-	[glView startAnimation];
+
+- (void)applicationDidBecomeActive:(UIApplication *)application {
+	glView.animationInterval = 1.0 / 60.0;
 }
 
-- (void)applicationWillTerminate:(UIApplication *)application
-{
-	[glView stopAnimation];
-}
 
-- (void) dealloc
-{
+- (void)dealloc {
 	[window release];
 	[glView release];
-	
 	[super dealloc];
 }
 

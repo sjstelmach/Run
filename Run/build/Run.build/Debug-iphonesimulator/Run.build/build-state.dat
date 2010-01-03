@@ -1,0 +1,403 @@
+TRun
+v7
+r0
+t284185855.469022
+cCheck dependencies
+cProcessInfoPlistFile /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/Info.plist Run-Info.plist
+cCompileXIB /Users/sstelmach/Sites/Run/Run/MainWindow.xib
+cProcessPCH /var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Run_Prefix-akweyjbvpglvevcqrqwmjpiyzkuy/Run_Prefix.pch.gch Run_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/main.o /Users/sstelmach/Sites/Run/Run/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/RunAppDelegate.o /Users/sstelmach/Sites/Run/Run/Classes/RunAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/GLView.o /Users/sstelmach/Sites/Run/Run/Classes/GLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/GLViewController.o /Users/sstelmach/Sites/Run/Run/Classes/GLViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/OpenGLTexture3D.o /Users/sstelmach/Sites/Run/Run/Classes/OpenGLTexture3D.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/Ship.o /Users/sstelmach/Sites/Run/Run/Ship.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/Run normal i386
+cGenerateDSYMFile /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app.dSYM /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/Run
+cTouch /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004ABE051D00000000000000EE
+t1253967133
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026DB00
+t1242278438
+s2546432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000260C20
+t1242278711
+s2493472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004A0BAD67000000000000094F
+t1242279271
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004A0BAD670000000000000A61
+t1242279271
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004A0BAD670000000000009369
+t1242279271
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004A0BAD670000000000002576
+t1242279271
+s9590
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004A0BAD70000000000001DD70
+t1242279280
+s122224
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E4270
+t1242279476
+s934512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001432D80
+t1242349407
+s21179776
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Users/sstelmach/Sites/Run/Run/Classes/ConstantsAndMacros.h
+c000000004B3FEB31000000000000032C
+t1262480177
+s812
+
+N/Users/sstelmach/Sites/Run/Run/Classes/GLView.h
+c000000004B4019C60000000000000350
+t1262492102
+s848
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/sstelmach/Sites/Run/Run/Classes/GLView.m
+c000000004B4019BE0000000000001187
+t1262492094
+s4487
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"GLView.h"
+i"ConstantsAndMacros.h"
+
+N/Users/sstelmach/Sites/Run/Run/Classes/GLViewController.h
+c000000004B401B53000000000000023F
+t1262492499
+s575
+i<UIKit/UIKit.h>
+i"GLView.h"
+i"Ship.h"
+
+N/Users/sstelmach/Sites/Run/Run/Classes/GLViewController.m
+c000000004B401D1D0000000000000661
+t1262492957
+s1633
+i"GLViewController.h"
+i"ConstantsAndMacros.h"
+i"OpenGLCommon.h"
+i<math.h>
+
+N/Users/sstelmach/Sites/Run/Run/Classes/OpenGLCommon.h
+c000000004B3FEB310000000000005C25
+t1262480177
+s23589
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGL/OpenGL.h>
+i"ConstantsAndMacros.h"
+
+N/Users/sstelmach/Sites/Run/Run/Classes/OpenGLTexture3D.h
+c000000004B3FEB31000000000000022A
+t1262480177
+s554
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/sstelmach/Sites/Run/Run/Classes/OpenGLTexture3D.m
+c000000004B3FEB310000000000000CE7
+t1262480177
+s3303
+i"OpenGLTexture3D.h"
+
+N/Users/sstelmach/Sites/Run/Run/Classes/RunAppDelegate.h
+c000000004B3FEB310000000000000199
+t1262480177
+s409
+i<UIKit/UIKit.h>
+
+N/Users/sstelmach/Sites/Run/Run/Classes/RunAppDelegate.m
+c000000004B3FEB310000000000000309
+t1262480177
+s777
+i"RunAppDelegate.h"
+i"GLView.h"
+i"ConstantsAndMacros.h"
+
+N/Users/sstelmach/Sites/Run/Run/MainWindow.xib
+c000000004B3FEB31000000000000561A
+t1262480177
+s22042
+
+N/Users/sstelmach/Sites/Run/Run/Run_Prefix.pch
+c000000004B3FEB3100000000000000A7
+t1262480177
+s167
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sstelmach/Sites/Run/Run/Ship.h
+c000000004B401BAA0000000000000218
+t1262492586
+s536
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ConstantsAndMacros.h"
+i"OpenGLCommon.h"
+
+N/Users/sstelmach/Sites/Run/Run/Ship.m
+c000000004B401D7D0000000000000358
+t1262493053
+s856
+i"Ship.h"
+
+N/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app
+t1262493055
+s204
+
+N/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app.dSYM
+t1262493055
+s102
+
+N/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/Info.plist
+t1262480256
+s546
+
+N/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/MainWindow.nib
+t1262480256
+s1702
+
+N/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/PkgInfo
+t1262480256
+s8
+
+N/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/Run
+t1262493055
+s36036
+
+N/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/GLView.o
+t1262492113
+s21180
+
+N/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/GLViewController.o
+t1262492960
+s37728
+
+N/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/OpenGLTexture3D.o
+t1262480257
+s16280
+
+N/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/Run.LinkFileList
+c000000004B3FEC82000000000000029F
+t1262480514
+s671
+
+N/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/RunAppDelegate.o
+t1262492113
+s19564
+
+N/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/Ship.o
+t1262493055
+s10704
+
+N/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/main.o
+t1262480257
+s5936
+
+N/Users/sstelmach/Sites/Run/Run/main.m
+c000000004B3FEB320000000000000168
+t1262480178
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Run_Prefix-akweyjbvpglvevcqrqwmjpiyzkuy/Run_Prefix.pch.gch
+t1262480257
+s12957072
+
+NRun-Info.plist
+c000000004B3FEB31000000000000038D
+t1262480177
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies284185855#284185855#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/GLView.o /Users/sstelmach/Sites/Run/Run/Classes/GLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s284184913.113467
+e284184913.206867
+r1
+xCompileC
+xbuild/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/GLView.o
+x/Users/sstelmach/Sites/Run/Run/Classes/GLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/sstelmach/Sites/Run/Run/Classes/GLView.m284184913#284184913#0(0"0(0#0#47"/Users/sstelmach/Sites/Run/Run/Classes/GLView.m4300885448#1701"    cd /Users/sstelmach/Sites/Run/Run    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-generated-files.hmap -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-own-target-headers.hmap -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-all-target-headers.hmap -iquote /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-project-headers.hmap -F/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator -I/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/include -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/DerivedSources/i386 -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/DerivedSources -include /var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Run_Prefix-akweyjbvpglvevcqrqwmjpiyzkuy/Run_Prefix.pch -c /Users/sstelmach/Sites/Run/Run/Classes/GLView.m -o /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/GLView.o0#
+
+CCompileC build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/GLViewController.o /Users/sstelmach/Sites/Run/Run/Classes/GLViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s284185760.127700
+e284185760.283161
+r1
+xCompileC
+xbuild/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/GLViewController.o
+x/Users/sstelmach/Sites/Run/Run/Classes/GLViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/sstelmach/Sites/Run/Run/Classes/GLViewController.m284185760#284185760#0(0"0(0#0#57"/Users/sstelmach/Sites/Run/Run/Classes/GLViewController.m4300885448#1721"    cd /Users/sstelmach/Sites/Run/Run    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-generated-files.hmap -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-own-target-headers.hmap -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-all-target-headers.hmap -iquote /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-project-headers.hmap -F/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator -I/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/include -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/DerivedSources/i386 -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/DerivedSources -include /var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Run_Prefix-akweyjbvpglvevcqrqwmjpiyzkuy/Run_Prefix.pch -c /Users/sstelmach/Sites/Run/Run/Classes/GLViewController.m -o /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/GLViewController.o0#
+
+CCompileC build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/OpenGLTexture3D.o /Users/sstelmach/Sites/Run/Run/Classes/OpenGLTexture3D.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s284173057.576397
+e284173057.665736
+r1
+xCompileC
+xbuild/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/OpenGLTexture3D.o
+x/Users/sstelmach/Sites/Run/Run/Classes/OpenGLTexture3D.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/sstelmach/Sites/Run/Run/Classes/OpenGLTexture3D.m284173057#284173057#0(0"0(0#0#56"/Users/sstelmach/Sites/Run/Run/Classes/OpenGLTexture3D.m4300885448#1719"    cd /Users/sstelmach/Sites/Run/Run    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-generated-files.hmap -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-own-target-headers.hmap -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-all-target-headers.hmap -iquote /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-project-headers.hmap -F/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator -I/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/include -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/DerivedSources/i386 -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/DerivedSources -include /var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Run_Prefix-akweyjbvpglvevcqrqwmjpiyzkuy/Run_Prefix.pch -c /Users/sstelmach/Sites/Run/Run/Classes/OpenGLTexture3D.m -o /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/OpenGLTexture3D.o0#
+
+CCompileC build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/RunAppDelegate.o /Users/sstelmach/Sites/Run/Run/Classes/RunAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s284184913.112585
+e284184913.177654
+r1
+xCompileC
+xbuild/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/RunAppDelegate.o
+x/Users/sstelmach/Sites/Run/Run/Classes/RunAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/sstelmach/Sites/Run/Run/Classes/RunAppDelegate.m284184913#284184913#0(0"0(0#0#55"/Users/sstelmach/Sites/Run/Run/Classes/RunAppDelegate.m4300885448#1717"    cd /Users/sstelmach/Sites/Run/Run    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-generated-files.hmap -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-own-target-headers.hmap -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-all-target-headers.hmap -iquote /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-project-headers.hmap -F/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator -I/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/include -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/DerivedSources/i386 -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/DerivedSources -include /var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Run_Prefix-akweyjbvpglvevcqrqwmjpiyzkuy/Run_Prefix.pch -c /Users/sstelmach/Sites/Run/Run/Classes/RunAppDelegate.m -o /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/RunAppDelegate.o0#
+
+CCompileC build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/Ship.o /Users/sstelmach/Sites/Run/Run/Ship.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s284185855.297164
+e284185855.430126
+r1
+xCompileC
+xbuild/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/Ship.o
+x/Users/sstelmach/Sites/Run/Run/Ship.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/sstelmach/Sites/Run/Run/Ship.m284185855#284185855#0(0"0(0#0#37"/Users/sstelmach/Sites/Run/Run/Ship.m4300885448#1689"    cd /Users/sstelmach/Sites/Run/Run    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-generated-files.hmap -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-own-target-headers.hmap -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-all-target-headers.hmap -iquote /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-project-headers.hmap -F/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator -I/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/include -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/DerivedSources/i386 -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/DerivedSources -include /var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Run_Prefix-akweyjbvpglvevcqrqwmjpiyzkuy/Run_Prefix.pch -c /Users/sstelmach/Sites/Run/Run/Ship.m -o /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/Ship.o0#
+
+CCompileC build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/main.o /Users/sstelmach/Sites/Run/Run/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s284173057.357222
+e284173057.421755
+r1
+xCompileC
+xbuild/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/main.o
+x/Users/sstelmach/Sites/Run/Run/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/sstelmach/Sites/Run/Run/main.m284173057#284173057#0(0"0(0#0#37"/Users/sstelmach/Sites/Run/Run/main.m4300885448#1689"    cd /Users/sstelmach/Sites/Run/Run    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-generated-files.hmap -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-own-target-headers.hmap -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-all-target-headers.hmap -iquote /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-project-headers.hmap -F/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator -I/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/include -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/DerivedSources/i386 -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/DerivedSources -include /var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Run_Prefix-akweyjbvpglvevcqrqwmjpiyzkuy/Run_Prefix.pch -c /Users/sstelmach/Sites/Run/Run/main.m -o /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/sstelmach/Sites/Run/Run/MainWindow.xib
+s284173056.375920
+e284173056.661202
+r1
+xCompileXIB
+x/Users/sstelmach/Sites/Run/Run/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib284173056#284173056#0(0"0(0#0#45"/Users/sstelmach/Sites/Run/Run/MainWindow.xib4300885448#452"    cd /Users/sstelmach/Sites/Run/Run    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/MainWindow.nib /Users/sstelmach/Sites/Run/Run/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app.dSYM /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/Run
+s284185855.451803
+e284185855.466380
+r1
+xGenerateDSYMFile
+x/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app.dSYM
+x/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/Run
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/Run.app.dSYM build/Debug-iphonesimulator/Run.app/Run284185855#284185855#0(0"0(0#0#70"/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/Run4300885448#347"    cd /Users/sstelmach/Sites/Run/Run    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/Run -o /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app.dSYM0#
+
+CLd /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/Run normal i386
+s284185855.430217
+e284185855.451715
+r1
+xLd
+x/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/Run
+xnormal
+xi386
+lSLF07#2@75"Link /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/Run284185855#284185855#0(0"0(0#0#0"4300885448#844"    cd /Users/sstelmach/Sites/Run/Run    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator -F/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator -filelist /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Objects-normal/i386/Run.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework CoreGraphics -o /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/Run0#
+
+CProcessInfoPlistFile /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/Info.plist Run-Info.plist
+s284173056.369503
+e284173056.375844
+r1
+xProcessInfoPlistFile
+x/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/Info.plist
+xRun-Info.plist
+lSLF07#2@22"Process Run-Info.plist284173056#284173056#0(0"0(0#0#45"/Users/sstelmach/Sites/Run/Run/Run-Info.plist29555366482477168#443"    cd /Users/sstelmach/Sites/Run/Run    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Run-Info.plist -genpkginfo /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app/Info.plist0#
+
+CProcessPCH /var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Run_Prefix-akweyjbvpglvevcqrqwmjpiyzkuy/Run_Prefix.pch.gch Run_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s284173056.661354
+e284173057.357112
+r1
+xProcessPCH
+x/var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Run_Prefix-akweyjbvpglvevcqrqwmjpiyzkuy/Run_Prefix.pch.gch
+xRun_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile Run_Prefix.pch284173056#284173057#0(0"0(0#0#45"/Users/sstelmach/Sites/Run/Run/Run_Prefix.pch4300885448#1593"    cd /Users/sstelmach/Sites/Run/Run    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-generated-files.hmap -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-own-target-headers.hmap -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-all-target-headers.hmap -iquote /Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/Run-project-headers.hmap -F/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator -I/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/include -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/DerivedSources/i386 -I/Users/sstelmach/Sites/Run/Run/build/Run.build/Debug-iphonesimulator/Run.build/DerivedSources -c /Users/sstelmach/Sites/Run/Run/Run_Prefix.pch -o /var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Run_Prefix-akweyjbvpglvevcqrqwmjpiyzkuy/Run_Prefix.pch.gch0#
+
+CTouch /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app
+s284185855.466640
+e284185855.468997
+r1
+xTouch
+x/Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app
+lSLF07#2@72"Touch /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app284185855#284185855#0(0"0(0#0#0"4300885448#258"    cd /Users/sstelmach/Sites/Run/Run    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sstelmach/Sites/Run/Run/build/Debug-iphonesimulator/Run.app0#
+

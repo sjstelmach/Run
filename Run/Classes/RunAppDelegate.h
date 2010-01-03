@@ -8,15 +8,15 @@
 
 #import <UIKit/UIKit.h>
 
-@class EAGLView;
+@class GLView;
 
 @interface RunAppDelegate : NSObject <UIApplicationDelegate> {
     UIWindow *window;
-    EAGLView *glView;
+    GLView *glView;
 }
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;
-@property (nonatomic, retain) IBOutlet EAGLView *glView;
+@property (nonatomic, retain) IBOutlet GLView *glView;
 
 @end
 

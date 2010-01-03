@@ -1,0 +1,5 @@
+/Users/sstelmach/Sites/Run/Run/Classes/GLView.m:160: warning: incomplete implementation of class 'GLView'
+/Users/sstelmach/Sites/Run/Run/Classes/GLView.m:160: warning: method definition for '-touchesCancelled:withEvent:' not found
+/Users/sstelmach/Sites/Run/Run/Classes/GLView.m:160: warning: method definition for '-touchesEnded:withEvent:' not found
+/Users/sstelmach/Sites/Run/Run/Classes/GLView.m:160: warning: method definition for '-touchesMoved:withEvent:' not found
+/Users/sstelmach/Sites/Run/Run/Classes/GLView.m:160: warning: method definition for '-touchesBegan:withEvent:' not found
